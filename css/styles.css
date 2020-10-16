@@ -1,3 +1,9 @@
+body {
+  background-color:rgb(114, 155, 245);
+  color:black;
+  font-family: sans-serif; 
+}
+
 .img-thumbnail {
   margin: 15px;
   border: solid rgb(232, 248, 159);
@@ -10,11 +16,12 @@
 .jumbotron {
   text-align: center;
   background-color: cornsilk;
+  color: black;
 }
 
 .col-4 {
   margin: 20px;
-  border: solid black;
+  border: solid whitesmoke;
   border-width: 20px;
   padding: 20px;
   width: 45%;
@@ -38,7 +45,7 @@
 }
 
 .card {
-  background-color: blueviolet;
+  background-color: rgb(189, 225, 236);
   text-align: center;
   box-sizing: border-box; 
 }
@@ -46,10 +53,9 @@
 
 .spooky {
   font-family: Creepster;
+  color:rgb(226, 24, 24);
 }
 
-body {
-  background-color: rgb(119, 119, 241);
-}
+
  
 
