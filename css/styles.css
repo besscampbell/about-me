@@ -15,15 +15,10 @@ body {
 
 .card-img-top {
   width: 15%;
-
 }
 
-.col-sm-3 {
-  float: left;
+.spooky {
+  font-family: Creepster;
 }
 
-.row4 {
-  content: " ";
-  display: table;
-  clear: both;
-}
+
