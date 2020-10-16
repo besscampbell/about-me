@@ -1,4 +1,4 @@
-# _Portfolio_
+# Portfolio
 
 #### Contains information about the author and links to projects she has worked on, 10.16.2020 
 
@@ -6,11 +6,11 @@
 
 ## Description
 
-_This website will give visitors an insight into the author's background, hobbies, and how she got into coding. It also contains links to some of the author's projects from her first week of coding._
+This website will give visitors an insight into the author's background, hobbies, and how she got into coding. It also contains links to some of the author's projects from her first week of coding. 
 
 ## Setup/Installation Requirements
 
-* Type the Github repository link https://github.com/besscampbell/about-me.git  into your browser
+* Type the Github repository link into your browser
 * Click on the green 'Code' button 
 * Choose the Download ZIP option
 * Once it has downloaded, open the file
@@ -19,22 +19,22 @@ _This website will give visitors an insight into the author's background, hobbie
 
 _or_
 
-  Check it out at http://besscampbell.github.io/about-me
+Check it out at http://besscampbell.github.io/about-me
 
 ## Known Bugs
 
-_No known bugs._
+No known bugs. 
 
 ## Support and contact details
 
- Please email <bess.k.campbell@gmail.com> if you have any issues.
+Please email <bess.k.campbell@gmail.com> if you have any issues. 
 
 ## Technologies Used
 
-_Markdown_
-_HTML_
-_CSS_
-_Bootstrap_
+Markdown 
+HTML 
+CSS 
+Bootstrap
 
 ### License
 
