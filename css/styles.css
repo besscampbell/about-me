@@ -13,7 +13,7 @@
 }
 
 .col-4 {
-  margin: 15px;
+  margin: 20px;
   border: solid black;
   border-width: 20px;
   padding: 20px;
@@ -22,18 +22,34 @@
   box-sizing: border-box;
 }
 
-body {
-  background-color: rgb(119, 119, 241);
+.col-3 {
+  margin:18px;
+  border: solid whitesmoke;
+  border-width: 18x;
+  float:left;
+
 }
 
 .card-image-top {
   margin: auto;
-  width: 20%;
+  width: 50%;
   max-width: 100%
   height: auto;
 }
+
+.card {
+  background-color: blueviolet;
+  text-align: center;
+  box-sizing: border-box; 
+}
+
+
 .spooky {
   font-family: Creepster;
+}
+
+body {
+  background-color: rgb(119, 119, 241);
 }
  
 
