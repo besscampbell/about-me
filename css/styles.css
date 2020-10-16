@@ -1,4 +1,7 @@
 .img-thumbnail {
+  margin: 15px;
+  border: solid rgb(232, 248, 159);
+  padding: 4px;
   float: right;
   width: 25%;
   height: auto;
@@ -9,16 +12,25 @@
   background-color: cornsilk;
 }
 
+.col-4{
+  float:left;
+}
+
+.col-6{
+  float:left;
+}
+
 body {
   background-color: rgb(119, 119, 241);
 }
 
-.card-img-top {
+.card-image {
+  margin: auto;
   width: 15%;
+  height: auto;
 }
-
 .spooky {
   font-family: Creepster;
 }
-
+ 
 
