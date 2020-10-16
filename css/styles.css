@@ -3,7 +3,7 @@
   border: solid rgb(232, 248, 159);
   padding: 4px;
   float: right;
-  width: 25%;
+  width: 20%;
   height: auto;
 }
 
@@ -17,21 +17,19 @@
   border: solid black;
   border-width: 20px;
   padding: 20px;
+  width: 45%;
   float:left;
   box-sizing: border-box;
-}
-
-.card {
-  float:left;
 }
 
 body {
   background-color: rgb(119, 119, 241);
 }
 
-.card-image {
+.card-image-top {
   margin: auto;
-  width: 15%;
+  width: 20%;
+  max-width: 100%
   height: auto;
 }
 .spooky {
