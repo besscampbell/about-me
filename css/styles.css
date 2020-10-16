@@ -12,11 +12,16 @@
   background-color: cornsilk;
 }
 
-.col-4{
+.col-4 {
+  margin: 15px;
+  border: solid black;
+  border-width: 20px;
+  padding: 20px;
   float:left;
+  box-sizing: border-box;
 }
 
-.col-6{
+.card {
   float:left;
 }
 
