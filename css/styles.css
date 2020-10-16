@@ -4,6 +4,26 @@
   height: auto;
 }
 
-.jumbotron.fluid {
+.jumbotron {
   text-align: center;
+  background-color: cornsilk;
+}
+
+body {
+  background-color: rgb(119, 119, 241);
+}
+
+.card-img-top {
+  width: 15%;
+
+}
+
+.col-sm-3 {
+  float: left;
+}
+
+.row4 {
+  content: " ";
+  display: table;
+  clear: both;
 }
