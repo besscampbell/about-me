@@ -29,6 +29,11 @@ body {
   box-sizing: border-box;
 }
 
+.col-4 h2 {
+  color:plum
+
+}
+
 .col-3 {
   margin:18px;
   border: solid whitesmoke;
