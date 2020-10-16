@@ -1,0 +1,9 @@
+.img-thumbnail {
+  float: right;
+  width: 25%;
+  height: auto;
+}
+
+.jumbotron.fluid {
+  text-align: center;
+}
